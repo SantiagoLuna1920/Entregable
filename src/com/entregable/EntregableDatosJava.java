@@ -1,6 +1,6 @@
 package com.entregable;
 
-public class DatosJava {
+public class EntregableDatosJava {
     public static void main (String[] args) {
         byte number1 = 1;
         short number2 = 12;
