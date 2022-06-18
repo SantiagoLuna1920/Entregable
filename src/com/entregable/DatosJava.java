@@ -11,7 +11,7 @@ public class DatosJava {
         boolean stateTrue = true;
         boolean stateFalse = false;
         String name = "Santiago Luna";
-
+//datos
         System.out.println("Tipo de datos en java");
 
         System.out.println("numericos.");
