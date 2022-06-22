@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40195911-bf56-481d-be16-0e64918de294" name="Changes" comment="modificado class EntregableDatosJava">
-      <change afterPath="$PROJECT_DIR$/src/com/entregable/EntregableFunciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40195911-bf56-481d-be16-0e64918de294" name="Changes" comment="Completo entregable Funciones" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +29,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.EntregableFunciones">
+}</component>
+  <component name="RunManager" selected="Application.EntregableDatosArray">
+    <configuration name="EntregableDatosArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.entregable.EntregableDatosArray" />
+      <module name="Entregable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.entregable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EntregableDatosJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.entregable.EntregableDatosJava" />
       <module name="Entregable" />
@@ -67,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EntregableDatosArray" />
         <item itemvalue="Application.EntregableFunciones" />
         <item itemvalue="Application.EntregableDatosJava" />
       </list>
@@ -102,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655523474634</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completo entregable Funciones">
+      <created>1655524974370</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655524974370</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +138,7 @@
     <MESSAGE value="Agregado datos" />
     <MESSAGE value="Agregado datos .2" />
     <MESSAGE value="modificado class EntregableDatosJava" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificado class EntregableDatosJava" />
+    <MESSAGE value="Completo entregable Funciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completo entregable Funciones" />
   </component>
 </project>
